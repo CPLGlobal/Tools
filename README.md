@@ -21,7 +21,7 @@ Supports strategic planning by identifying optimal investment sites and areas vu
 
 ### CollabData
 A community engagement tool for data collection and analysis, enhancing public consultation and transparency.
-- **Link**: [CollabMap Source Code](https://github.com/UPTechMX/collabmap)
+- **Link**: [CollabData Source Code](https://github.com/UPTechMX/collabmap)
 
 ## Backend and Calculation Modules
 
